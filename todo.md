@@ -1,4 +1,4 @@
 *podział na sekcje
-*wybór api google wather i callendar
+*wybór api https://weatherdbi.herokuapp.com/ callendar
 *opisnie klas
 *stworzenie
