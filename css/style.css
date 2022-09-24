@@ -6,8 +6,6 @@ body{
     background-image: url('../assets/graphs/bckgrd.jpg');
     background-size: cover;
     background-position: center;
-
-
 }
 .wrapper{
     height: 80vh;
@@ -21,10 +19,13 @@ body{
 }
 .euroRates{
     background-color: rgba(0, 0, 0, .7);
+    border-top: red solid 1px;
     color: aquamarine;
+    /* display: inline-flex; */
     height: 10vh;
 }
-.euroRates span{
-    color: aqua;
+.rate {
+    color: blue;
     padding-right: 3em;
+    
 }
